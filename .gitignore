@@ -6,3 +6,5 @@ tests
 *venv/
 __pycache__/
 /heic_gui_settings.json
+config.bat
+node_modules
